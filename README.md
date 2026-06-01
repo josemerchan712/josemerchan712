@@ -18,7 +18,7 @@ Me especializo en automatización de procesos y aplicaciones web para negocios l
 
 ## 📌 Proyectos destacados
 
-- 🖥️ **Portfolio personal** — En construcción
+- 🖥️ **Portfolio personal** — [Ver en vivo](https://josemerchan712.github.io/portfolio/)
 - 🍽️ **TPV para hostelería** — En desarrollo
 
 ---
